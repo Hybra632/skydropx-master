@@ -1,0 +1,33 @@
+/**Utilities **/
+.section{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+/**Global**/
+.container{
+    width: 95%;
+    max-width: 120rem;
+    margin: 0 auto 0 auto;
+    margin-top: 2rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+.d-block{
+    display: block!important;
+}
+
+.content-centered{
+    max-width: 800px;
+}
+
+.fw-300{
+    font-weight: 300;
+}
+
+.text-centered{
+    text-align: center;
+}

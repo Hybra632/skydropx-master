@@ -1,0 +1,25 @@
+.pagination {
+    display: inline-block;
+}
+
+.center {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.pagination button {
+    border: none;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 4px;
+    background-color: transparent;
+}
+
+.pagination button.active {
+    background-color: #3498db;
+    color: white;
+}
+
+.pagination button:hover:not(.active) {background-color: #3498db; color: white;}

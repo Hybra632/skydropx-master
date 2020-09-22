@@ -1,0 +1,8 @@
+/**Items**/
+@media (min-width: 768px){
+    .container-items{
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+}
